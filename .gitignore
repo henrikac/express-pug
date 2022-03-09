@@ -1,0 +1,8 @@
+# Vim
+*.swp
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
